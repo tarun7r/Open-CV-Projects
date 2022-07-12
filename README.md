@@ -22,10 +22,3 @@ plt.figure(figsize=(10,20))
 plt.imshow(img)
 ```
 
-## Demo
-
-![car2.jpg](Open CV/car2.jpg)
-
-## Result
-
-![result_car2.png](Open CV/result_car2.png)
